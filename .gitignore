@@ -1,0 +1,28 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go coverage / profiles
+*.prof
+*.pprof
+cpu.out
+mem.out
+
+# Local binaries
+bin/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Project-specific generated files
+/gobuff.test
