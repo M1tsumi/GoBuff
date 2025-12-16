@@ -4,7 +4,7 @@ GoBUFF provides a reusable byte buffer and bucketed pool targeting near-zero all
 
 ## Installation
 ```bash
-go get github.com/your/repo/gobuff
+go get github.com/M1tsumi/GoBuff
 ```
 
 ## Quick Start
